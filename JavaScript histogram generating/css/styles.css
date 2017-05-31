@@ -1,0 +1,28 @@
+li {
+  border: 1px solid black;
+  margin-bottom: 1px;
+  list-style: none;
+  border-radius: 5px 5px 5px;
+  height: 30px;
+}
+
+.jumbotron{
+	background-color: #303F9F;
+	color: white;
+}
+
+body{
+	background-color: #b3b3ff;
+}
+
+header div div div div div div div p {
+	color: black;
+}
+
+header div div div div div div div {
+	background-color: #b3b3ff;
+}
+
+div div div div p {
+	margin-bottom: 10px;
+}

@@ -1,0 +1,1 @@
+Here you can see two similar sides of the page. There are smile faces on the both of them. But there is also one extra face on the left side. You should find it and press it out. Every time the game will be more and more difficult, so be attentive, or your game will be over.
